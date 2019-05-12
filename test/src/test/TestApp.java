@@ -14,6 +14,7 @@ public class TestApp {
 	public static AndroidDriver<AndroidElement> Capabilities() throws MalformedURLException{
 
 		// TODO Auto-generated method stub
+		//test commit
 	 File appDir = new File("src");
      File app = new File(appDir, "ApiDemos-debug.apk");
      DesiredCapabilities capabilities = new DesiredCapabilities();

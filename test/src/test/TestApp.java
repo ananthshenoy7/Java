@@ -15,6 +15,7 @@ public class TestApp {
 
 		// TODO Auto-generated method stub
 		//test commit
+		//test1
 	 File appDir = new File("src");
      File app = new File(appDir, "ApiDemos-debug.apk");
      DesiredCapabilities capabilities = new DesiredCapabilities();
